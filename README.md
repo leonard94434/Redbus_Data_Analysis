@@ -28,6 +28,7 @@ Required Python Libraries:
 You can install the required Python libraries using pip:
 
 pip install selenium
+
 pip install pymysql
 
 Setting up MySQL:
