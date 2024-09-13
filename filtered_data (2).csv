@@ -1,0 +1,183 @@
+id,route_name,route_link,busname,bustype,departing_time,duration,reaching_time,star_rating,price,seats_available
+1,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 561,Super Express Non AC Seater Air Bus (2+2),2024-09-12 01:55:00,05h 45m,2024-09-12 07:40:00,4.2,306.0,11
+2,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 1377,AC MULTI AXLE,2024-09-12 02:20:00,05h 15m,2024-09-12 07:35:00,3.8,494.0,12
+4,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 368,AC MULTI AXLE,2024-09-12 03:05:00,05h 00m,2024-09-12 08:05:00,3.8,494.0,18
+5,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 1126,Super Fast Non AC Seater (2+3),2024-09-12 03:16:00,06h 15m,2024-09-12 09:31:00,4.1,273.0,43
+7,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 788,Super Fast Non AC Seater (2+3),2024-09-12 07:00:00,05h 45m,2024-09-12 12:45:00,4.1,285.0,30
+8,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 2132,Swift Deluxe Non AC Air Bus (2+2),2024-09-12 07:32:00,05h 27m,2024-09-12 12:59:00,3.6,356.0,9
+9,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 580,Super Express Non AC Seater Air Bus (2+2),2024-09-12 08:06:00,05h 20m,2024-09-12 13:26:00,3.8,306.0,23
+10,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 983,Super Fast Non AC Seater (2+3),2024-09-12 08:15:00,06h 30m,2024-09-12 14:45:00,3.8,266.0,34
+11,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 53,SWIFT-GARUDA A/C SEATER BUS,2024-09-12 08:29:00,04h 51m,2024-09-12 13:20:00,2.7,391.0,6
+12,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 791,Super Fast Non AC Seater (2+3),2024-09-12 08:45:00,05h 30m,2024-09-12 14:15:00,3.8,285.0,43
+14,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 579,Super Express Non AC Seater Air Bus (2+2),2024-09-12 10:00:00,05h 20m,2024-09-12 15:20:00,2.5,306.0,13
+15,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 709,Super Fast Non AC Seater (2+3),2024-09-12 10:30:00,06h 00m,2024-09-12 16:30:00,3.4,285.0,50
+16,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 932,Super Fast Non AC Seater (2+3),2024-09-12 11:15:00,05h 45m,2024-09-12 17:00:00,3.4,273.0,36
+17,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 55,SWIFT-GARUDA A/C SEATER BUS,2024-09-12 12:02:00,05h 03m,2024-09-12 17:05:00,3.5,391.0,6
+19,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 805,Super Fast Non AC Seater (2+3),2024-09-12 13:32:00,05h 10m,2024-09-12 18:42:00,4.2,285.0,50
+20,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 897,Super Fast Non AC Seater (2+3),2024-09-12 15:01:00,06h 29m,2024-09-12 21:30:00,3.6,273.0,39
+21,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 708,Super Fast Non AC Seater (2+3),2024-09-12 16:01:00,06h 24m,2024-09-12 22:25:00,4.1,285.0,31
+23,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 578,Super Express Non AC Seater Air Bus (2+2),2024-09-12 18:00:00,07h 20m,2024-09-13 01:20:00,3.8,350.0,26
+24,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 72,SWIFT-GARUDA A/C SEATER BUS,2024-09-12 19:00:00,05h 30m,2024-09-13 00:30:00,2.0,452.0,5
+25,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 1583,Super Express Non AC Seater Air Bus (2+2),2024-09-12 20:02:00,05h 59m,2024-09-13 02:01:00,3.8,419.0,6
+26,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 1584,Super Express Non AC Seater Air Bus (2+2),2024-09-12 21:29:00,06h 04m,2024-09-13 03:33:00,3.8,419.0,5
+28,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 549,Super Express Non AC Seater Air Bus (2+2),2024-09-12 22:15:00,05h 40m,2024-09-13 03:55:00,3.8,419.0,4
+29,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 719,Super Fast Non AC Seater (2+3),2024-09-12 23:00:00,06h 40m,2024-09-13 05:40:00,3.2,319.0,29
+30,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 96,Swift Deluxe Non AC Air Bus (2+2),2024-09-12 23:05:00,05h 05m,2024-09-13 04:10:00,3.8,356.0,1
+31,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 170,Swift Deluxe Non AC Air Bus (2+2),2024-09-12 23:50:00,04h 30m,2024-09-13 04:20:00,2.6,356.0,1
+32,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,CHANCHALAS TOURS AND TRAVELS,A/C Semi Sleeper (2+2),2024-09-12 06:15:00,05h 40m,2024-09-12 11:55:00,4.2,599.0,37
+33,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,DA Transports,NON A/C Sleeper (2+1),2024-09-12 09:10:00,06h 40m,2024-09-12 15:50:00,3.8,499.0,26
+36,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,Suraj Holidays,NON AC Seater / Sleeper 2+1,2024-09-12 21:00:00,06h 00m,2024-09-13 03:00:00,3.9,800.0,21
+37,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,A1 Travels,Non A/C Seater / Sleeper (2+1),2024-09-12 21:30:00,06h 30m,2024-09-13 04:00:00,3.2,600.0,12
+38,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,J J YATRA,A/C Sleeper (2+1),2024-09-12 13:30:00,06h 15m,2024-09-12 19:45:00,0.0,565.0,36
+39,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,LIYAS TOURS,Bharat Benz A/C Sleeper (2+1),2024-09-12 03:40:00,04h 20m,2024-09-12 08:00:00,3.6,1649.0,18
+40,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,Orange Tours And Travels,Bharat Benz A/C Sleeper (2+1),2024-09-12 14:00:00,06h 30m,2024-09-12 20:30:00,3.3,1200.0,23
+41,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,Bharathi Travels,A/C Sleeper (2+1),2024-09-12 15:00:00,06h 00m,2024-09-12 21:00:00,3.1,1290.0,13
+42,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,A1 Travels,A/C Seater / Sleeper (2+1),2024-09-12 20:00:00,08h 00m,2024-09-13 04:00:00,3.2,1000.0,27
+43,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,MMK Travels,A/C Sleeper (2+1),2024-09-12 20:30:00,06h 30m,2024-09-13 03:00:00,4.2,1100.0,11
+44,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,National travels and logistics,NON A/C Sleeper (2+1),2024-09-12 20:45:00,07h 15m,2024-09-13 04:00:00,3.8,999.0,4
+45,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,National travels and logistics,A/C Sleeper (2+1),2024-09-12 21:00:00,06h 15m,2024-09-13 03:15:00,3.8,1050.0,13
+46,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,SKS Tours & Travels,A/C Sleeper (2+1),2024-09-12 21:00:00,07h 00m,2024-09-13 04:00:00,4.1,899.0,17
+47,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,NS Transports,VE A/C Sleeper (2+1),2024-09-12 21:15:00,06h 15m,2024-09-13 03:30:00,4.2,999.0,17
+48,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,SKS Tourist Corporation (REGD),A/C Sleeper (2+1),2024-09-12 21:30:00,07h 15m,2024-09-13 04:45:00,3.6,999.0,34
+49,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,DA Transports,A/C Sleeper (2+1),2024-09-12 21:50:00,06h 40m,2024-09-13 04:30:00,3.8,899.0,24
+50,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,Suraj Holidays,VE A/C Sleeper (2+1),2024-09-12 22:00:00,07h 00m,2024-09-13 05:00:00,3.6,1050.0,18
+51,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,DA Transports,A/C Sleeper (2+1),2024-09-12 22:00:00,06h 40m,2024-09-13 04:40:00,3.8,949.0,31
+52,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,A1 Travels,Bharat Benz A/C Sleeper (2+1),2024-09-12 04:00:00,04h 15m,2024-09-12 08:15:00,2.1,1400.0,30
+53,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),2024-09-12 04:55:00,04h 20m,2024-09-12 09:15:00,2.7,1200.0,15
+54,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),2024-09-12 13:45:00,05h 45m,2024-09-12 19:30:00,2.7,1600.0,28
+55,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,DLT BUS,A/C Sleeper (2+1),2024-09-12 22:30:00,07h 00m,2024-09-13 05:30:00,4.1,2599.0,14
+60,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Kyros Connect,Bharat Benz A/C Semi Sleeper (2+2),2024-09-12 23:00:00,08h 30m,2024-09-13 07:30:00,3.9,2399.0,22
+61,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),2024-09-12 22:00:00,07h 25m,2024-09-13 05:25:00,3.9,1899.0,1
+63,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,A1 Travels,Non A/C Seater / Sleeper (2+1),2024-09-12 21:00:00,08h 00m,2024-09-13 05:00:00,3.7,1500.0,16
+64,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,DA Transports,A/C Sleeper (2+1),2024-09-12 21:45:00,06h 30m,2024-09-13 04:15:00,3.5,1999.0,24
+65,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,SURAJ TRAVEL HOUSE,VE A/C Seater / Sleeper (2+1),2024-09-12 21:00:00,08h 15m,2024-09-13 05:15:00,3.9,2099.0,3
+67,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,SKS Tourist Corporation (REGD),A/C Sleeper (2+1),2024-09-12 21:00:00,07h 45m,2024-09-13 04:45:00,2.6,2199.0,2
+68,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Orange Tours And Travels,Bharat Benz A/C Sleeper (2+1),2024-09-12 02:30:00,05h 15m,2024-09-12 07:45:00,1.1,1300.0,17
+69,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,FAST LINE BUS,A/C Sleeper (2+1),2024-09-12 21:15:00,06h 45m,2024-09-13 04:00:00,0.0,2199.0,4
+70,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),2024-09-12 03:00:00,05h 40m,2024-09-12 08:40:00,1.9,2500.0,16
+72,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,MMK Travels,A/C Seater / Sleeper (2+1),2024-09-12 22:30:00,07h 15m,2024-09-13 05:45:00,3.7,2399.0,21
+73,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,SURAJ TRAVEL HOUSE,VE A/C Semi Sleeper (2+2),2024-09-12 21:00:00,08h 15m,2024-09-13 05:15:00,3.9,1699.0,36
+74,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,P K Travels,A/C Seater / Sleeper (2+1),2024-09-12 21:30:00,06h 30m,2024-09-13 04:00:00,3.8,1500.0,1
+75,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,DA Transports,A/C Seater Push Back (2+2),2024-09-12 21:45:00,06h 30m,2024-09-13 04:15:00,3.8,1649.0,33
+76,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Kerala lines,Scania Multi-Axle AC Semi Sleeper (2+2),2024-09-12 22:00:00,06h 50m,2024-09-13 04:50:00,3.8,1899.0,35
+77,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Kerala lines,Volvo Multi-Axle A/C Sleeper (2+1),2024-09-12 23:00:00,06h 50m,2024-09-13 05:50:00,3.8,2450.0,28
+78,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,A1 Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-09-12 20:00:00,08h 30m,2024-09-13 04:30:00,3.7,2099.0,5
+79,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,A1 Travels,A/C Semi Sleeper (2+2),2024-09-12 21:30:00,08h 00m,2024-09-13 05:30:00,3.7,1950.0,25
+80,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,A1 Travels,A/C Seater / Sleeper (2+1),2024-09-12 22:30:00,06h 30m,2024-09-13 05:00:00,3.7,2000.0,20
+81,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,CHANCHALAS TOURS AND TRAVELS,A/C Semi Sleeper (2+2),2024-09-12 15:00:00,06h 40m,2024-09-12 21:40:00,3.7,1899.0,29
+82,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Kyros Connect,A/C Semi Sleeper (2+2),2024-09-12 07:00:00,06h 05m,2024-09-12 13:05:00,4.1,1499.0,20
+83,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,CHANCHALAS TOURS AND TRAVELS,A/C Semi Sleeper (2+2),2024-09-12 15:00:00,06h 45m,2024-09-12 21:45:00,3.6,1804.0,29
+84,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,SKS Tourist Corporation (REGD),A/C Sleeper (2+1),2024-09-12 21:00:00,07h 20m,2024-09-13 04:20:00,3.3,2199.0,2
+85,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Kyros Connect,A/C Semi Sleeper (2+2),2024-09-12 07:00:00,06h 00m,2024-09-12 13:00:00,3.5,1499.0,20
+86,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Sam Tourist,Volvo A/C Seater (2+2),2024-09-12 22:30:00,07h 00m,2024-09-13 05:30:00,3.1,1799.0,34
+87,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),2024-09-12 03:00:00,05h 41m,2024-09-12 08:41:00,3.1,2500.0,16
+88,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Bharathi Travels,A/C Sleeper (2+1),2024-09-12 02:30:00,07h 00m,2024-09-12 09:30:00,3.1,1713.0,19
+89,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Ravina Travels (Regd),A/C Sleeper (2+1),2024-09-12 22:30:00,06h 15m,2024-09-13 04:45:00,2.9,2599.0,24
+90,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Kyros Connect,A/C Semi Sleeper (2+2),2024-09-12 23:15:00,08h 20m,2024-09-13 07:35:00,3.7,1799.0,29
+93,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Sam Tourist,Volvo A/C Seater (2+2),2024-09-12 22:30:00,07h 15m,2024-09-13 05:45:00,2.4,1799.0,34
+94,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Vijay Lines,A/C Seater / Sleeper (2+1),2024-09-12 22:20:00,06h 25m,2024-09-13 04:45:00,2.4,1329.0,2
+95,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Kyros Connect,A/C Semi Sleeper (2+2),2024-09-12 23:15:00,08h 30m,2024-09-13 07:45:00,4.0,1799.0,27
+96,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,DA Transports,A/C Sleeper (2+1),2024-09-12 21:45:00,06h 30m,2024-09-13 04:15:00,3.8,1999.0,31
+97,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,DA Transports,NON A/C Sleeper (2+1),2024-09-12 22:00:00,06h 30m,2024-09-13 04:30:00,3.8,1999.0,15
+98,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,A1 Travels,A/C Semi Sleeper (2+2),2024-09-12 22:30:00,08h 00m,2024-09-13 06:30:00,3.7,1750.0,34
+99,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Sri Balaji Holidays,Volvo A/C Semi Sleeper (2+2),2024-09-12 22:20:00,07h 10m,2024-09-13 05:30:00,3.3,1799.0,37
+100,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Sri Balaji Holidays,Volvo A/C Semi Sleeper (2+2),2024-09-12 22:20:00,07h 45m,2024-09-13 06:05:00,3.3,1799.0,37
+101,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Sam Tours and Travels,A/C Classy Seater (2+2),2024-09-12 20:00:00,09h 50m,2024-09-13 05:50:00,3.2,1699.0,20
+102,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Sam Tours and Travels,A/C Classy Seater (2+2),2024-09-12 20:00:00,09h 05m,2024-09-13 05:05:00,3.2,1699.0,21
+103,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Sam Tours and Travels,A/C Semi Sleeper (2+2),2024-09-12 21:45:00,07h 20m,2024-09-13 05:05:00,3.2,1699.0,8
+104,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Bharathi Travels,A/C Sleeper (2+1),2024-09-12 23:45:00,07h 15m,2024-09-13 07:00:00,3.1,2490.0,30
+105,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Bharathi Travels,A/C Sleeper (2+1),2024-09-12 23:45:00,07h 45m,2024-09-13 07:30:00,3.1,2490.0,24
+106,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Sri Tourist,A/C Sleeper (2+1),2024-09-12 21:00:00,07h 00m,2024-09-13 04:00:00,2.5,1999.0,31
+107,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,AGR Travels,A/C Sleeper (2+1),2024-09-12 20:15:00,09h 16m,2024-09-13 05:31:00,0.0,2200.0,24
+108,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,AGR Travels,A/C Sleeper (2+1),2024-09-12 20:15:00,09h 15m,2024-09-13 05:30:00,0.0,2200.0,24
+109,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 561,Super Express Non AC Seater Air Bus (2+2),2024-09-12 01:55:00,05h 45m,2024-09-12 07:40:00,4.2,306.0,11
+110,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 1377,AC MULTI AXLE,2024-09-12 02:20:00,05h 15m,2024-09-12 07:35:00,3.8,494.0,12
+112,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 368,AC MULTI AXLE,2024-09-12 03:05:00,05h 00m,2024-09-12 08:05:00,3.8,494.0,18
+113,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 1126,Super Fast Non AC Seater (2+3),2024-09-12 03:16:00,06h 15m,2024-09-12 09:31:00,4.1,273.0,43
+115,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 788,Super Fast Non AC Seater (2+3),2024-09-12 07:00:00,05h 45m,2024-09-12 12:45:00,4.1,285.0,30
+116,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 2132,Swift Deluxe Non AC Air Bus (2+2),2024-09-12 07:32:00,05h 27m,2024-09-12 12:59:00,3.6,356.0,9
+117,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 580,Super Express Non AC Seater Air Bus (2+2),2024-09-12 08:06:00,05h 20m,2024-09-12 13:26:00,3.8,306.0,23
+118,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 983,Super Fast Non AC Seater (2+3),2024-09-12 08:15:00,06h 30m,2024-09-12 14:45:00,3.8,266.0,34
+119,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 53,SWIFT-GARUDA A/C SEATER BUS,2024-09-12 08:29:00,04h 51m,2024-09-12 13:20:00,2.7,391.0,6
+120,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 791,Super Fast Non AC Seater (2+3),2024-09-12 08:45:00,05h 30m,2024-09-12 14:15:00,3.8,285.0,43
+122,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 579,Super Express Non AC Seater Air Bus (2+2),2024-09-12 10:00:00,05h 20m,2024-09-12 15:20:00,2.5,306.0,13
+123,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 709,Super Fast Non AC Seater (2+3),2024-09-12 10:30:00,06h 00m,2024-09-12 16:30:00,3.4,285.0,50
+124,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 932,Super Fast Non AC Seater (2+3),2024-09-12 11:15:00,05h 45m,2024-09-12 17:00:00,3.4,273.0,36
+125,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 55,SWIFT-GARUDA A/C SEATER BUS,2024-09-12 12:02:00,05h 03m,2024-09-12 17:05:00,3.5,391.0,6
+127,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 805,Super Fast Non AC Seater (2+3),2024-09-12 13:32:00,05h 10m,2024-09-12 18:42:00,4.2,285.0,50
+128,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 897,Super Fast Non AC Seater (2+3),2024-09-12 15:01:00,06h 29m,2024-09-12 21:30:00,3.6,273.0,39
+129,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 708,Super Fast Non AC Seater (2+3),2024-09-12 16:01:00,06h 24m,2024-09-12 22:25:00,4.1,285.0,31
+131,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 578,Super Express Non AC Seater Air Bus (2+2),2024-09-12 18:00:00,07h 20m,2024-09-13 01:20:00,3.8,350.0,26
+132,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 72,SWIFT-GARUDA A/C SEATER BUS,2024-09-12 19:00:00,05h 30m,2024-09-13 00:30:00,2.0,452.0,5
+133,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 1583,Super Express Non AC Seater Air Bus (2+2),2024-09-12 20:02:00,05h 59m,2024-09-13 02:01:00,3.8,419.0,6
+134,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 1584,Super Express Non AC Seater Air Bus (2+2),2024-09-12 21:29:00,06h 04m,2024-09-13 03:33:00,3.8,419.0,5
+136,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 549,Super Express Non AC Seater Air Bus (2+2),2024-09-12 22:15:00,05h 40m,2024-09-13 03:55:00,3.8,419.0,4
+137,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 719,Super Fast Non AC Seater (2+3),2024-09-12 23:00:00,06h 40m,2024-09-13 05:40:00,3.2,319.0,29
+138,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 96,Swift Deluxe Non AC Air Bus (2+2),2024-09-12 23:05:00,05h 05m,2024-09-13 04:10:00,3.8,356.0,1
+139,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 170,Swift Deluxe Non AC Air Bus (2+2),2024-09-12 23:50:00,04h 30m,2024-09-13 04:20:00,2.6,356.0,1
+140,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,CHANCHALAS TOURS AND TRAVELS,A/C Semi Sleeper (2+2),2024-09-12 06:15:00,05h 40m,2024-09-12 11:55:00,4.2,599.0,37
+141,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,DA Transports,NON A/C Sleeper (2+1),2024-09-12 09:10:00,06h 40m,2024-09-12 15:50:00,3.8,499.0,26
+144,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,Suraj Holidays,NON AC Seater / Sleeper 2+1,2024-09-12 21:00:00,06h 00m,2024-09-13 03:00:00,3.9,800.0,21
+145,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,A1 Travels,Non A/C Seater / Sleeper (2+1),2024-09-12 21:30:00,06h 30m,2024-09-13 04:00:00,3.2,600.0,12
+146,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,J J YATRA,A/C Sleeper (2+1),2024-09-12 13:30:00,06h 15m,2024-09-12 19:45:00,0.0,565.0,36
+147,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,LIYAS TOURS,Bharat Benz A/C Sleeper (2+1),2024-09-12 03:40:00,04h 20m,2024-09-12 08:00:00,3.6,1649.0,18
+148,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,Orange Tours And Travels,Bharat Benz A/C Sleeper (2+1),2024-09-12 14:00:00,06h 30m,2024-09-12 20:30:00,3.3,1200.0,23
+149,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,Bharathi Travels,A/C Sleeper (2+1),2024-09-12 15:00:00,06h 00m,2024-09-12 21:00:00,3.1,1290.0,13
+150,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,A1 Travels,A/C Seater / Sleeper (2+1),2024-09-12 20:00:00,08h 00m,2024-09-13 04:00:00,3.2,1000.0,27
+151,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,MMK Travels,A/C Sleeper (2+1),2024-09-12 20:30:00,06h 30m,2024-09-13 03:00:00,4.2,1100.0,11
+152,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,National travels and logistics,NON A/C Sleeper (2+1),2024-09-12 20:45:00,07h 15m,2024-09-13 04:00:00,3.8,999.0,4
+153,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,National travels and logistics,A/C Sleeper (2+1),2024-09-12 21:00:00,06h 15m,2024-09-13 03:15:00,3.8,1050.0,13
+154,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,SKS Tours & Travels,A/C Sleeper (2+1),2024-09-12 21:00:00,07h 00m,2024-09-13 04:00:00,4.1,899.0,17
+155,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,NS Transports,VE A/C Sleeper (2+1),2024-09-12 21:15:00,06h 15m,2024-09-13 03:30:00,4.2,999.0,17
+156,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,SKS Tourist Corporation (REGD),A/C Sleeper (2+1),2024-09-12 21:30:00,07h 15m,2024-09-13 04:45:00,3.6,999.0,34
+157,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,DA Transports,A/C Sleeper (2+1),2024-09-12 21:50:00,06h 40m,2024-09-13 04:30:00,3.8,899.0,24
+158,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,Suraj Holidays,VE A/C Sleeper (2+1),2024-09-12 22:00:00,07h 00m,2024-09-13 05:00:00,3.6,1050.0,18
+159,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,DA Transports,A/C Sleeper (2+1),2024-09-12 22:00:00,06h 40m,2024-09-13 04:40:00,3.8,949.0,31
+160,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,A1 Travels,Bharat Benz A/C Sleeper (2+1),2024-09-12 04:00:00,04h 15m,2024-09-12 08:15:00,2.1,1400.0,30
+161,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),2024-09-12 04:55:00,04h 20m,2024-09-12 09:15:00,2.7,1200.0,15
+162,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),2024-09-12 13:45:00,05h 45m,2024-09-12 19:30:00,2.7,1600.0,28
+163,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,DLT BUS,A/C Sleeper (2+1),2024-09-12 22:30:00,07h 00m,2024-09-13 05:30:00,4.1,2599.0,14
+168,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Kyros Connect,Bharat Benz A/C Semi Sleeper (2+2),2024-09-12 23:00:00,08h 30m,2024-09-13 07:30:00,3.9,2399.0,22
+169,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),2024-09-12 22:00:00,07h 25m,2024-09-13 05:25:00,3.9,1899.0,1
+171,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,A1 Travels,Non A/C Seater / Sleeper (2+1),2024-09-12 21:00:00,08h 00m,2024-09-13 05:00:00,3.7,1500.0,16
+172,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,DA Transports,A/C Sleeper (2+1),2024-09-12 21:45:00,06h 30m,2024-09-13 04:15:00,3.5,1999.0,24
+173,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,SURAJ TRAVEL HOUSE,VE A/C Seater / Sleeper (2+1),2024-09-12 21:00:00,08h 15m,2024-09-13 05:15:00,3.9,2099.0,3
+175,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,SKS Tourist Corporation (REGD),A/C Sleeper (2+1),2024-09-12 21:00:00,07h 45m,2024-09-13 04:45:00,2.6,2199.0,2
+176,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Orange Tours And Travels,Bharat Benz A/C Sleeper (2+1),2024-09-12 02:30:00,05h 15m,2024-09-12 07:45:00,1.1,1300.0,17
+177,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,FAST LINE BUS,A/C Sleeper (2+1),2024-09-12 21:15:00,06h 45m,2024-09-13 04:00:00,0.0,2199.0,4
+178,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),2024-09-12 03:00:00,05h 40m,2024-09-12 08:40:00,1.9,2500.0,16
+180,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,MMK Travels,A/C Seater / Sleeper (2+1),2024-09-12 22:30:00,07h 15m,2024-09-13 05:45:00,3.7,2399.0,21
+181,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,SURAJ TRAVEL HOUSE,VE A/C Semi Sleeper (2+2),2024-09-12 21:00:00,08h 15m,2024-09-13 05:15:00,3.9,1699.0,36
+182,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,P K Travels,A/C Seater / Sleeper (2+1),2024-09-12 21:30:00,06h 30m,2024-09-13 04:00:00,3.8,1500.0,1
+183,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,DA Transports,A/C Seater Push Back (2+2),2024-09-12 21:45:00,06h 30m,2024-09-13 04:15:00,3.8,1649.0,33
+184,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Kerala lines,Scania Multi-Axle AC Semi Sleeper (2+2),2024-09-12 22:00:00,06h 50m,2024-09-13 04:50:00,3.8,1899.0,35
+185,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Kerala lines,Volvo Multi-Axle A/C Sleeper (2+1),2024-09-12 23:00:00,06h 50m,2024-09-13 05:50:00,3.8,2450.0,28
+186,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,A1 Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-09-12 20:00:00,08h 30m,2024-09-13 04:30:00,3.7,2099.0,5
+187,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,A1 Travels,A/C Semi Sleeper (2+2),2024-09-12 21:30:00,08h 00m,2024-09-13 05:30:00,3.7,1950.0,25
+188,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,A1 Travels,A/C Seater / Sleeper (2+1),2024-09-12 22:30:00,06h 30m,2024-09-13 05:00:00,3.7,2000.0,20
+189,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,CHANCHALAS TOURS AND TRAVELS,A/C Semi Sleeper (2+2),2024-09-12 15:00:00,06h 40m,2024-09-12 21:40:00,3.7,1899.0,29
+190,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Kyros Connect,A/C Semi Sleeper (2+2),2024-09-12 07:00:00,06h 05m,2024-09-12 13:05:00,4.1,1499.0,20
+191,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,CHANCHALAS TOURS AND TRAVELS,A/C Semi Sleeper (2+2),2024-09-12 15:00:00,06h 45m,2024-09-12 21:45:00,3.6,1804.0,29
+192,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,SKS Tourist Corporation (REGD),A/C Sleeper (2+1),2024-09-12 21:00:00,07h 20m,2024-09-13 04:20:00,3.3,2199.0,2
+193,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Kyros Connect,A/C Semi Sleeper (2+2),2024-09-12 07:00:00,06h 00m,2024-09-12 13:00:00,3.5,1499.0,20
+194,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Sam Tourist,Volvo A/C Seater (2+2),2024-09-12 22:30:00,07h 00m,2024-09-13 05:30:00,3.1,1799.0,34
+195,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),2024-09-12 03:00:00,05h 41m,2024-09-12 08:41:00,3.1,2500.0,16
+196,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Bharathi Travels,A/C Sleeper (2+1),2024-09-12 02:30:00,07h 00m,2024-09-12 09:30:00,3.1,1713.0,19
+197,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Ravina Travels (Regd),A/C Sleeper (2+1),2024-09-12 22:30:00,06h 15m,2024-09-13 04:45:00,2.9,2599.0,24
+198,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Kyros Connect,A/C Semi Sleeper (2+2),2024-09-12 23:15:00,08h 20m,2024-09-13 07:35:00,3.7,1799.0,29
+201,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Sam Tourist,Volvo A/C Seater (2+2),2024-09-12 22:30:00,07h 15m,2024-09-13 05:45:00,2.4,1799.0,34
+202,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Vijay Lines,A/C Seater / Sleeper (2+1),2024-09-12 22:20:00,06h 25m,2024-09-13 04:45:00,2.4,1329.0,2
+203,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Kyros Connect,A/C Semi Sleeper (2+2),2024-09-12 23:15:00,08h 30m,2024-09-13 07:45:00,4.0,1799.0,27
+204,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,DA Transports,A/C Sleeper (2+1),2024-09-12 21:45:00,06h 30m,2024-09-13 04:15:00,3.8,1999.0,31
+205,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,DA Transports,NON A/C Sleeper (2+1),2024-09-12 22:00:00,06h 30m,2024-09-13 04:30:00,3.8,1999.0,15
+206,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,A1 Travels,A/C Semi Sleeper (2+2),2024-09-12 22:30:00,08h 00m,2024-09-13 06:30:00,3.7,1750.0,34
+207,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Sri Balaji Holidays,Volvo A/C Semi Sleeper (2+2),2024-09-12 22:20:00,07h 10m,2024-09-13 05:30:00,3.3,1799.0,37
+208,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Sri Balaji Holidays,Volvo A/C Semi Sleeper (2+2),2024-09-12 22:20:00,07h 45m,2024-09-13 06:05:00,3.3,1799.0,37
+209,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Sam Tours and Travels,A/C Classy Seater (2+2),2024-09-12 20:00:00,09h 50m,2024-09-13 05:50:00,3.2,1699.0,20
+210,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Sam Tours and Travels,A/C Classy Seater (2+2),2024-09-12 20:00:00,09h 05m,2024-09-13 05:05:00,3.2,1699.0,21
+211,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Sam Tours and Travels,A/C Semi Sleeper (2+2),2024-09-12 21:45:00,07h 20m,2024-09-13 05:05:00,3.2,1699.0,8
+212,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Bharathi Travels,A/C Sleeper (2+1),2024-09-12 23:45:00,07h 15m,2024-09-13 07:00:00,3.1,2490.0,30
+213,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Bharathi Travels,A/C Sleeper (2+1),2024-09-12 23:45:00,07h 45m,2024-09-13 07:30:00,3.1,2490.0,24
+214,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,Sri Tourist,A/C Sleeper (2+1),2024-09-12 21:00:00,07h 00m,2024-09-13 04:00:00,2.5,1999.0,31
+215,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,AGR Travels,A/C Sleeper (2+1),2024-09-12 20:15:00,09h 16m,2024-09-13 05:31:00,0.0,2200.0,24
+216,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta,AGR Travels,A/C Sleeper (2+1),2024-09-12 20:15:00,09h 15m,2024-09-13 05:30:00,0.0,2200.0,24
