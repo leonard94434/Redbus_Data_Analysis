@@ -27,9 +27,9 @@ Required Python Libraries:
 
 You can install the required Python libraries using pip:
 
-pip install selenium
+#pip install selenium
 
-pip install pymysql
+#pip install pymysql
 
 Setting up MySQL:
 
@@ -81,7 +81,7 @@ Run the script after installing all dependencies and setting up MySQL.
 Make sure your WebDriver (e.g., ChromeDriver) is installed and configured.
 Follow the instructions in the console to click through pages manually when required.
 
-python redbus_scraper.py #BASH
+# python redbus_scraper.py #BASH
 
 Database Schema
 SQL
