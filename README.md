@@ -1,4 +1,4 @@
-                                                RedBus Web Scraping and Analysis
+                                                # RedBus Web Scraping and Analysis #
 Overview:
 
 This project is designed to automate the process of scraping bus routes, details, and availability from the RedBus website. Using Selenium for web scraping and storing the gathered data in a MySQL database, this tool is perfect for anyone needing to gather real-time bus information for analysis or personal use.
